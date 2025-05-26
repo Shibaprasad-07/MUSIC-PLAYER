@@ -112,7 +112,7 @@ const music_list = [
         music: 'music11.mp3'
     },
     {
-        img: 'die with.jpg',
+        img: 'diewith.jpg',
         name: 'Die with a Smile',
         artist: 'Bruno Mars',
         music: 'music12.mp3'
