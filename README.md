@@ -1,1 +1,1 @@
-That is github repository.
+This is a github repository.
